@@ -10,5 +10,5 @@
 
 <!---You Can Mail in mailto:patelvaibhav789@gmail.com...
 --->
-        Visitor Counter
+        <b>Visitor Counter</b>
 ![Visitor Count](https://profile-counter.glitch.me/{vpgarsondiya}/count.svg)
