@@ -13,19 +13,19 @@
 
 
 <p align="center">
-    <img style="padding:5px" src="src/tech/csharp.png" />
-    <img style="padding:5px" src="src/tech/unity.png" />
-    <img style="padding:5px" src="src/tech/java.png" />
-    <img style="padding:5px" src="src/tech/android.png" />
-    <img style="padding:5px" src="src/tech/clang.png" />
-    <img style="padding:5px" src="src/tech/c-plus-plus-logo.png" />
+    <img style="padding:5px" src="tech/csharp.png" />
+    <img style="padding:5px" src="tech/symfony-icon.png" />
+    <img style="padding:5px" src="tech/laravel-icon.png" />
+    <img style="padding:5px" src="tech/react-js-icon.png" />
+    <img style="padding:5px" src="tech/clang.png" />
+    <img style="padding:5px" src="tech/c-plus-plus-logo.png" />
     <br>
-    <img style="padding:5px" src="src/tech/html5.png" />
-    <img style="padding:5px" src="src/tech/css3.png" />
-    <img style="padding:5px" src="src/tech/javascript.png" />
-    <img height="75px" style="padding:5px" src="src/tech/asp.net.png" />
-    <img style="padding:5px" src="src/tech/php.png" /> &nbsp;&nbsp;&nbsp;
-    <img style="padding:5px" src="src/tech/mysql.png" />
+    <img style="padding:5px" src="tech/html5.png" />
+    <img style="padding:5px" src="tech/css3.png" />
+    <img style="padding:5px" src="tech/javascript.png" />
+    <img height="75px" style="padding:5px" src="tech/vue-js-icon.png" />
+    <img style="padding:5px" src="tech/php.png" /> &nbsp;&nbsp;&nbsp;
+    <img style="padding:5px" src="tech/mysql.png" />
 
 </p>
 
