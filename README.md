@@ -14,9 +14,9 @@
 
 <p align="center">
     <img style="padding:5px" src="tech/csharp.png" />
-    <img style="padding:5px" src="tech/symfony-icon.png" />
-    <img style="padding:5px" src="tech/laravel-icon.png" />
-    <img style="padding:5px" src="tech/react-js-icon.png" />
+    <img style="padding:5px" src="tech/symfony.png" />
+    <img style="padding:5px" src="tech/laravel.png" />
+    <img style="padding:5px" src="tech/reactnative.png" />
     <img style="padding:5px" src="tech/clang.png" />
     <img style="padding:5px" src="tech/c-plus-plus-logo.png" />
     <br>
