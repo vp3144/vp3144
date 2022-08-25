@@ -19,7 +19,6 @@
     <img style="padding:5px" src="tech/reactnative.png" />
     <img style="padding:5px" src="tech/clang.png" /><br>
     <img style="padding:5px" src="tech/c-plus-plus-logo.png" />
-
     <img style="padding:5px" src="tech/html5.png" />
     <img style="padding:5px" src="tech/css3.png" />
     <img style="padding:5px" src="tech/javascript.png" /><br>
